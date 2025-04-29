@@ -1,2 +1,10 @@
-# Jobseekers
-We connect job seekers with top employers through a fast, easy-to-use platform.Whether you're job hunting we help you find the right fit—quickly.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;">A Blue Heading</h1>
+
+<p style="color:red;">A red paragraph.</p>
+
+</body>
+</html>
